@@ -15,18 +15,12 @@ Ik heb de website fortuna wormerveer getest en de conclusie is dat de performanc
 
 <h3>samenvatting</h3>
 
-Deze website heeft een heleboel verbeterpunten de pagina heeft voor de cookies een grote banner waardoor die heel veel plek inneemt op de pagina wat vrij onnodige is
-verder word in de test weergegeven dat er code van diverse 3de partijen gebruikt word zoals angular of bootstrap en dit maakt de pagina ook traag
-Ook is er nog een hoop te verbeteren op het gebied van dry code zoadat er geen onnodige code op de pagina staat van html css javascript
+Deze website heeft een heleboel verbeterpunten de pagina heeft voor de cookies een grote banner waardoor die heel veel plek inneemt op de pagina wat vrij onnodige is.<br>
+verder word in de test weergegeven dat er code van diverse 3de partijen gebruikt word zoals angular of bootstrap en dit maakt de pagina ook traag<br>
+Ook is er nog een hoop te verbeteren op het gebied van dry code zoadat er geen onnodige code op de pagina staat van html css javascript<br>
 
 voor een verdere uitleg zie de wiki 
 
-
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
-
-Toon een screenshot van de performance test.
-
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
 
 
 ## Licentie
